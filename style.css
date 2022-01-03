@@ -1,4 +1,21 @@
 h1{
-    color:cadetblue;
+    color:rgb(0, 72, 228);
     font-family: 'Courier New', Courier, monospace;
+}
+
+.Intro{
+    color:rgb(3, 209, 216);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+
+.welcome{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyXL03OMnJqr3WKvyMELx7ImPe_9CXZi6lq6SwVtTBRuha3LwI1PvUv5CHY3i1KLmMIz0&usqp=CAU);
+    border: 10px solid rgb(0, 86, 167); 
+    border-radius: 10px;
+    padding: 0 10px;
+}
+
+#amrChobi{
+    
 }

@@ -15,7 +15,18 @@ h1{
     border-radius: 10px;
     padding: 0 10px;
 }
-
+.links{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyXL03OMnJqr3WKvyMELx7ImPe_9CXZi6lq6SwVtTBRuha3LwI1PvUv5CHY3i1KLmMIz0&usqp=CAU);
+    color:blanchedalmond;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    border: 10px solid rgb(0, 86, 167); 
+    border-radius: 10px;
+    padding: 0 10px;
+}
+a{
+    color: bisque;
+}
 #amrChobi{
     
 }
